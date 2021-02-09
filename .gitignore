@@ -2,6 +2,11 @@ _site/
 .sass-cache/
 .bundle/
 Gemfile.lock
+.idea/
+.jekyll-cache/
+.jekyll-metadata
+vendor/
+
 
 # Windows image file caches
 Thumbs.db
