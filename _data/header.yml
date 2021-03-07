@@ -2,8 +2,6 @@ sections:
   - name: Sobre mim
     url:  /
   - name: Educação/Formação
-    url: /education-formation
-  - name: Associativismo
-    url: /associativism
+    url: /pages/education-formation
   - name: Blog
-    url: /blog
+    url: /pages/blog

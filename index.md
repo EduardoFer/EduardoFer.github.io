@@ -3,22 +3,18 @@ layout: page
 permalink: /
 ---
 
-Olá,
+# Hi,
 
-O meu é Eduardo Fernandes e este é o meu site pessoal.
-Com este site pretendo registar o meu percurso e publicar artigo sobre assuntos que me interessam.
+Welcome this is my personal website with the sides I pretend to register my life path and publish articles on subjects matters to be me.
 
 
-# Sobre mim
+I'm Portuguese and I live in Vila Nova de Gaia and I have a Master in Electrical and Computers Engineering in Faculdade de Engenharia da Universidade do Porto.
 
-Sou português, vivo em Vila Nova de Gaia e tenho o Mestrado Integrado em Engenharia e Electrotécnica e de Computadores da Faculdade de Engenharia
-da Universidade do Porto.
 
-Trabalho desde 2016 na área de IT. Mais pormenores podem ser consultados [aqui]().
+I started my professional career in 2016. I work as a software developer. Nowadays, I work with Java, Kubernetes, AWS among other technologies.
 
-Para além da vida profissional dedico-me ao Movimento Associativo, nomeadamente ao mundo Folclore.
 
-Considero o Associativismo um dos pilares da Sociedade Moderna, apesar de fantasma. Pode-se observar 
-[numa notícia](https://www.jn.pt/nacional/metade-dos-portugueses-esta-ligadaa-associacoes-9062757.html) do JN 
-publicada em 21 de janeiro de 2018 que cerca de metade dos portugueses têm de alguma forma conexão ao movimento 
-associativo.
+As hobbies I like to travel although I never left Europe (it's on my To Do List). In chronological order I have visited Spain, France, Malta, Greece, Cyprus, Germany, Czech Republic, United Kingdom, Bulgaria and Belgium. I have some countries on my list but I hope to visit even more countries than these ones.
+
+
+My main hobby is working as volunteer, as director in a folklore Association. At this moment, I'm the board secretary of Grupo Folclórico de Danças e Cantares de Mafamude since 2017. In Portugal there are approximately 31,000 associations like this one. I think this kind of associations has more impact than people can imagine. I think this movement he's a pillar in our modern society because people can make a difference when they are part of this movement. It's possible to see in this new published by Jornal de Notícias at 21st of January of 2018 that approximately half of the Portuguese people have some connection to this kind of associations. I truly believe that this kind of organizations can make people lives better and can help them in the hardest moments because people make connections there, they make friends, they create memories that's bonds the deepest human beings there are inside of us.
