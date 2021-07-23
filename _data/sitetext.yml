@@ -1,0 +1,11 @@
+contacts:
+  title: Contactos
+  list:
+    - title: Linkedin
+      desc: linkedin.com/in/eduardo-fernandes-64646a27
+      icon: fab fa-linkedin #find more at https://fontawesome.com/icons
+      href: linkedin.com/in/eduardo-fernandes-64646a27
+    - title: E-mail
+      desc: eduardolofernandes@gmail.com
+      icon: fas fa-at #find more at https://fontawesome.com/icons
+      href: mailto:eduardolofernandes@gmail.com

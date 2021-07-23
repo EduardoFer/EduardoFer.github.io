@@ -1,7 +1,9 @@
 sections:
-  - name: Sobre mim
+  - name: About me
     url:  /
-  - name: Educação/Formação
-    url: /pages/education-formation
+  - name: Path
+    url: /pages/path
   - name: Blog
     url: /pages/blog
+  - name: Contacts
+    url: /pages/contacts
